@@ -41,3 +41,8 @@ NOTE:
 2) Make sure that all parameters are correct.
 
 3) Check the input and output foldername while you compile and run program.
+
+This is the output result you will obtained after performing OpenCV calibration:
+<p align="center">
+  <img src="https://github.com/Shivani1796/Undistort_Fisheye_Images/blob/master/undistort_fisheye_images/intel%20t265/opencvimg.png">
+</p>
