@@ -1,7 +1,7 @@
 
-This is to undistort fisheye images to a normal image (pin hole model)
+This is to undistort fisheye images to a normal image (pin hole model).
 
-*Prepare By: Shivani Baldwa & Raghav Jethliya*
+*Prepared By: Shivani Baldwa & Raghav Jethliya*
 
 In this go to directory undistort_fisheye_images ----->Intel T265.
 
@@ -28,7 +28,8 @@ compile : python undistort.py
 
 Run undistort.py
 ```
-python undistort.py input_img_foldername output_img_foldername (Fpor Example: python undistort.py input output)
+python undistort.py input_img_foldername output_img_foldername 
+(For Example: python undistort.py input output)
 ```
 RESULT:
 <p align="center">
