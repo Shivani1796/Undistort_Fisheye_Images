@@ -5,6 +5,9 @@ This is to undistort fisheye images to a normal image (pin hole model).
 
 In this go to directory undistort_fisheye_images ----->Intel T265.
 
+**NOTE : 
+Please check the OpenCV version(3.4.2) as same as program otherwise it won't give the same result !!!!**
+
 ## Step 1:
 **Calibrate your camera**
 
